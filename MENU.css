@@ -1,0 +1,61 @@
+img{
+    height: 29px;
+}
+div
+{
+    width: 80%;
+    max-width: 500px;
+    background-color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+    text align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 44px;
+    margin-bottom:-19px;
+    
+}
+body{
+    background-image: url('https://images.unsplash.com/photo-1634250533599-f8a70960073c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGF0dGVuJTIwYnJvd258ZW58MHx8MHx8fDA%3D');
+}
+section
+{
+    text-align:center;
+    
+}
+hr
+{
+    
+    height: 05px;
+    background-color:brown;
+    border-radius: 20px;
+}
+#hr1{
+    margin-top: 50px;
+}
+.flavor, .dessert{
+    display:inline-block;
+text-align: left;
+width: 75%;
+color: rgb(66, 6, 6);
+}
+.price{
+    display:inline-block;
+    text-align: right;
+    width: 25%;
+    color: rgb(66, 6, 6);
+}
+#temp{
+    margin-bottom: 26px;
+}
+h1
+{
+font-size: 38px;
+font-family: 'PT Serif', serif;
+color: rgb(66, 9, 9);
+
+}
+h2
+{
+    color: rgb(66, 9, 9);
+}
